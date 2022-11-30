@@ -13,3 +13,4 @@ void main() {
       '/registration': (context) => const RegistrationPage(),
     },
   ));
+}
