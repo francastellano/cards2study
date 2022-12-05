@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "749865079305",
+    "project_id": "c2sapp-cc0e7",
+    "storage_bucket": "c2sapp-cc0e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749865079305:android:59d187eaefa00654901ed8",
+        "android_client_info": {
+          "package_name": "com.cards2study.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "749865079305-g4402s1p6avr9vuh92v5l0n2j8obaj16.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cards2study.app",
+            "certificate_hash": "f5ac844baa64c11269d74bac9bb0b15c5c5785b7"
+          }
+        },
+        {
+          "client_id": "749865079305-tdta37flhtbq1pfk05nerljcqvljiv0d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfo71N647E_u1fRvjXzmTLZfTbJ6yY8fY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "749865079305-tdta37flhtbq1pfk05nerljcqvljiv0d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

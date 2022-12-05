@@ -26,7 +26,7 @@ class WelcomePage extends StatelessWidget {
 
               Column (
                 mainAxisAlignment: MainAxisAlignment.center,
-                crossAxisAlignment: CrossAxisAlignment.center,
+                crossAxisAlignment: CrossAxisAlignment.stretch,
                 children: [
                   Image.asset('assets/images/logo2.png'),
                   const Text('Welcome',
